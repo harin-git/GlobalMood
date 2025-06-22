@@ -1,0 +1,5 @@
+psynet@git+https://gitlab.com/PsyNetDev/PsyNet@60d735aa9c8b111c128312b83d48130e77523c94#egg=psynet
+internat@git+https://internat:osu7iCYae5RHSaVcTmwr@gitlab.com/computational-audition-lab/internationalization@65684e4319ab0e5dbfd92839c525c7fe531c606f#egg=internat
+step@git+https://github.com/polvanrijn/STEP.git@50c231cfe4edc94387e10b180e7e847978c7901a#egg=step
+
+

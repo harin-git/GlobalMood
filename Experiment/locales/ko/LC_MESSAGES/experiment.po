@@ -1,0 +1,231 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ""
+#: beep_headphone_test.py
+msgctxt "Beep-headphone-test"
+msgid "Which sound is different from the other two: 1, 2, or 3?"
+msgstr "1, 2, 3 중 어느 소리가 다른 소리와 다른가요?"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"We will now perform a quick test to check that you are wearing headphones."
+msgstr "이제 헤드폰을 착용하고 있는지 확인하기 위해 간단한 테스트를 진행하겠습니다."
+
+#: experiment.py
+#, fuzzy
+msgid "In each trial, you will hear three sounds separated by silences. "
+msgstr "각 실험에서, 세 개의 소리가 침묵으로 구분되어 들립니다."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Listen to the music clip. Rate how well each of the following tags reflects "
+"<strong>emotions expressed or conveyed</strong> by the song:"
+msgstr ""
+"음악 클립을 듣고, 다음 태그들이 노래가 <strong>표현하거나 전달하는 감정</strong>을 얼마나 잘 반영하는지 평가하세요:"
+
+#. ""
+#: experiment.py
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "음악을 설명하는 연구에 오신 것을 환영합니다!"
+
+#. ""
+#: experiment.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr "<STRONG>경고:</STRONG> 실험 중에는 <b>헤드폰</b>을 사용하고 조용한 환경을 유지하는 것이 중요합니다. "
+
+#. ""
+#: experiment.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr "다음 페이지에서 컴퓨터의 볼륨을 조정해주세요. 그런 다음 헤드폰이 호환되는지 확인하겠습니다."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this study, you will <strong>listen to short music clips</strong> and "
+"<strong>evaluate how well the provided tags represent the <em style='color: "
+"#007acc;'>emotions expressed</em> in the music</strong>"
+msgstr ""
+"이 연구에서, <strong>짧은 음악 클립을 듣고</strong> 제공된 태그들이 음악에서 <em style='color: "
+"#007acc;'>표현된 감정</em>을 얼마나 잘 나타내는지 <strong>평가할 것입니다</strong>"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"You will rate each tag on a <strong>scale of 1 to 5</strong> based on how "
+"accurately it reflects the <strong>emotions expressed or conveyed</strong> "
+"by the song:"
+msgstr ""
+"노래가 <strong>표현하거나 전달하는 감정</strong>을 얼마나 정확하게 반영하는지에 따라 각 태그를 <strong>1에서 "
+"5까지의 척도</strong>로 평가할 것입니다:"
+
+#: experiment.py
+#, fuzzy
+msgid "Not expressing at all"
+msgstr "전혀 표현하지 않음"
+
+#: experiment.py
+#, fuzzy
+msgid "Slightly expressing"
+msgstr "약간 표현함"
+
+#: experiment.py
+#, fuzzy
+msgid "Moderately expressing"
+msgstr "보통으로 표현함"
+
+#: experiment.py
+#, fuzzy
+msgid "Very expressing"
+msgstr "매우 표현함"
+
+#: experiment.py
+#, fuzzy
+msgid "Extremely expressing"
+msgstr "극도로 표현함"
+
+#: experiment.py
+#, fuzzy
+msgid "The tags you will evaluate include:"
+msgstr "평가할 태그는 다음과 같습니다:"
+
+#: experiment.py
+#, fuzzy
+msgid "Please take your time to carefully consider each tag before rating."
+msgstr "평가하기 전에 각 태그를 신중하게 고려하세요."
+
+#: experiment.py
+#, fuzzy
+msgid "Important Notice"
+msgstr "중요 공지"
+
+#: experiment.py
+#, fuzzy
+msgid "Please rate the tags honestly. "
+msgstr "태그를 정직하게 평가하세요."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Providing inconsistent answers may result in early termination of the "
+"experiment without payment. "
+msgstr "일관성 없는 답변을 제공하면 실험이 조기 종료되어 보상이 지급되지 않을 수 있습니다."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"This termination will be flagged as bad data, potentially influencing your "
+"reputation score on the platform."
+msgstr "이 종료는 불량 데이터로 표시되어 플랫폼에서의 평판 점수에 영향을 미칠 수 있습니다."
+
+#: experiment.py
+#, fuzzy
+msgid "You are about to start the experiment. "
+msgstr "실험을 시작하려고 합니다."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"<STRONG>Please note that the submit button becomes available after the song "
+"has been played once.</STRONG>"
+msgstr "<STRONG>노래가 한 번 재생된 후에 제출 버튼이 활성화된다는 점을 유의하세요.</STRONG>"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr "듣고 평가하기: 노래의 감정 태그 평가 (Chrome 브라우저 및 헤드폰 필요, 약 30분)"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr "듣고 평가하기: 노래의 감정 태그 평가 (Chrome 브라우저 및 헤드폰 필요, 약 30분)"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr "이 실험에서 짧은 음악 클립을 듣고 제공된 태그가 노래의 감정을 얼마나 잘 나타내는지 평가합니다."
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr "이 실험에서 짧은 음악 클립을 듣고 제공된 태그가 노래의 감정을 얼마나 잘 나타내는지 평가합니다."
+
+#. ""
+#: utils.py
+msgid "Please note that headphones are required for this study"
+msgstr "이 실험을 참여하기 위해선 헤드폰이 필요합니다"
+
+#. ""
+#: utils.py
+msgid "Please note that headphones are required for this study"
+msgstr "이 실험을 참여하기 위해선 헤드폰이 필요합니다"
+
+#. ""
+#: utils.py
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr "일부 브라우저 추가 기능이 실험을 방해할 수 있으므로 Chrome의 시크릿 창에서 실험을 여는 것이 좋습니다."
+
+#. ""
+#: utils.py
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr "일부 브라우저 추가 기능이 실험을 방해할 수 있으므로 Chrome의 시크릿 창에서 실험을 여는 것이 좋습니다."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Calibrate your volume"
+msgstr "볼륨을 조정하세요"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Do you hear the music?"
+msgstr "음악이 들리나요?"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Set the volume in your computer to a comfortable level. The audio should be "
+"clear but not too loud."
+msgstr "컴퓨터의 볼륨을 편안한 수준으로 설정하세요. 오디오가 명확하게 들리지만 너무 크지 않아야 합니다."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Once the volume is set comfortably, do not change throughout the experiment."
+msgstr "볼륨을 편안하게 설정한 후에는 실험 내내 변경하지 마세요."

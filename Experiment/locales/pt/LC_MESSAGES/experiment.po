@@ -1,0 +1,572 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: GoogleTranslate API\n"
+"Language-Team: GoogleTranslate\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: beep_headphone_test.py
+msgctxt "Beep-headphone-test"
+msgid "Which sound is different from the other two: 1, 2, or 3?"
+msgstr "Qual som é diferente dos outros dois: 1, 2 ou 3?"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Listen to the music clip. Rate how well each of the following tags "
+"represents the emotions of the song:"
+msgstr ""
+"Ouça o trecho musical. Avalie quão bem cada uma das seguintes etiquetas "
+"representa as emoções da música:"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this study, you will <strong>listen to short music clips</strong> and "
+"<strong>evaluate how well the provided tags represent the <em style='color: "
+"#007acc;'>emotions</em> of the songs.</strong>"
+msgstr ""
+"Neste estudo, você irá <strong>ouvir trechos curtos de música</strong> e "
+"<strong>avaliar quão bem as etiquetas fornecidas representam as <em "
+"style='color: #007acc;'>emoções</em> das músicas.</strong>"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"You will rate each tag on a <strong>scale of 1 to 5</strong> based on how "
+"accurately it reflects the emotions conveyed by the song:"
+msgstr ""
+"Você avaliará cada etiqueta em uma <strong>escala de 1 a 5</strong> com base"
+" em quão precisamente ela reflete as emoções transmitidas pela música:"
+
+#: experiment.py
+#, fuzzy
+msgid "Not representative at all"
+msgstr "Nada representativo"
+
+#: experiment.py
+#, fuzzy
+msgid "Slightly representative"
+msgstr "Pouco representativo"
+
+#: experiment.py
+#, fuzzy
+msgid "Moderately representative"
+msgstr "Moderadamente representativo"
+
+#: experiment.py
+#, fuzzy
+msgid "Very representative"
+msgstr "Muito representativo"
+
+#: experiment.py
+#, fuzzy
+msgid "Extremely representative"
+msgstr "Extremamente representativo"
+
+#: experiment.py
+#, fuzzy
+msgid "The tags you will evaluate include:"
+msgstr "As etiquetas que você irá avaliar incluem:"
+
+#: experiment.py
+#, fuzzy
+msgid "Please take your time to carefully consider each tag before rating."
+msgstr ""
+"Por favor, dedique seu tempo para considerar cuidadosamente cada etiqueta "
+"antes de avaliar."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~25 min, £4)"
+msgstr ""
+"Ouça e Avalie: Avalie Etiquetas Emocionais para Músicas (Navegador Chrome e "
+"fones de ouvido necessários, ~25 min, £4)"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr ""
+"Neste experimento, você ouvirá trechos curtos de música e avaliará quão bem "
+"as etiquetas fornecidas representam as emoções das músicas."
+
+#: experiment.py
+#, fuzzy
+msgid "Important Notice"
+msgstr "Aviso Importante"
+
+#: experiment.py
+#, fuzzy
+msgid "Please rate the tags honestly. "
+msgstr "Por favor, avalie as etiquetas honestamente."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Providing inconsistent answers may result in early termination of the "
+"experiment without payment. "
+msgstr ""
+"Fornecer respostas inconsistentes pode resultar na rescisão antecipada do "
+"experimento sem pagamento."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"This termination will be flagged as bad data, potentially influencing your "
+"reputation score on the platform."
+msgstr ""
+"Esta rescisão será sinalizada como dados ruins, potencialmente influenciando"
+" sua pontuação de reputação na plataforma."
+
+#: experiment.py
+#, fuzzy
+msgid "You are about to start the experiment. "
+msgstr "Você está prestes a iniciar o experimento."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"<STRONG>Please note that the submit button becomes available after the song "
+"has been played once.</STRONG>"
+msgstr ""
+"<STRONG>Por favor, note que o botão de envio fica disponível após a música "
+"ter sido tocada uma vez.</STRONG>"
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "Bem-vindo ao estudo para descrever a música!"
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "Bem-vindo ao estudo para descrever a música!"
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr ""
+"<STRONG>Aviso:</STRONG> Durante o experimento, é essencial usar <b>fones de "
+"ouvido</b> e ficar em um ambiente silencioso. "
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr ""
+"<STRONG>Aviso:</STRONG> Durante o experimento, é essencial usar <b>fones de "
+"ouvido</b> e ficar em um ambiente silencioso. "
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr ""
+"Na próxima página, ajuste o volume do seu computador. Em seguida, "
+"verificaremos se seus fones de ouvido são compatíveis."
+
+#. ""
+#: experiment_rating.py
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr ""
+"Na próxima página, ajuste o volume do seu computador. Em seguida, "
+"verificaremos se seus fones de ouvido são compatíveis."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"In the first part of the experiment we will perform a test to check your "
+"language abilities."
+msgstr ""
+"Na primeira parte do experimento, faremos um teste para verificar suas "
+"habilidades linguísticas."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"In the first part of the experiment we will perform a test to check your "
+"language abilities."
+msgstr ""
+"Na primeira parte do experimento, faremos um teste para verificar suas "
+"habilidades linguísticas."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid "In each trial, you will see a string of characters."
+msgstr "Em cada tentativa, você verá uma sequência de caracteres."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid "In each trial, you will see a string of characters."
+msgstr "Em cada tentativa, você verá uma sequência de caracteres."
+
+#: experiment_rating.py
+msgctxt "instructions1"
+msgid "The word will disappear after two seconds."
+msgstr "A palavra desaparecerá após dois segundos."
+
+#: experiment_rating.py
+msgctxt "instructions1"
+msgid "The word will disappear after two seconds."
+msgstr "A palavra desaparecerá após dois segundos."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"Your task is to decide whether this is an existing word or not in your "
+"language."
+msgstr ""
+"Sua tarefa é decidir se essa é uma palavra existente ou não em seu idioma."
+
+#: experiment_rating.py
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"Your task is to decide whether this is an existing word or not in your "
+"language."
+msgstr ""
+"Sua tarefa é decidir se essa é uma palavra existente ou não em seu idioma."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If you don't know the exact meaning of the word, but you are certain that it"
+" exists in your language, you should still mark it as a real word."
+msgstr ""
+"Se você não souber o significado exato da palavra, mas tiver certeza de que "
+"ela existe em seu idioma, ainda assim deverá marcá-la como uma palavra real."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If you don't know the exact meaning of the word, but you are certain that it"
+" exists in your language, you should still mark it as a real word."
+msgstr ""
+"Se você não souber o significado exato da palavra, mas tiver certeza de que "
+"ela existe em seu idioma, ainda assim deverá marcá-la como uma palavra real."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If you are not sure whether the word exists in your language, you should "
+"mark it as a fake word."
+msgstr ""
+"Se não tiver certeza de que a palavra existe em seu idioma, você deve marcá-"
+"la como uma palavra falsa."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If you are not sure whether the word exists in your language, you should "
+"mark it as a fake word."
+msgstr ""
+"Se não tiver certeza de que a palavra existe em seu idioma, você deve marcá-"
+"la como uma palavra falsa."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "In this experiment, you might find a mix between spelling variants."
+msgstr ""
+"Nesse experimento, você pode encontrar uma mistura de variantes de "
+"ortografia."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "In this experiment, you might find a mix between spelling variants."
+msgstr ""
+"Nesse experimento, você pode encontrar uma mistura de variantes de "
+"ortografia."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If a real word is written in a less common spelling variant, you should mark"
+" it as a real word."
+msgstr ""
+"Se uma palavra real for escrita em uma variante ortográfica menos comum, "
+"você deverá marcá-la como uma palavra real."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid ""
+"If a real word is written in a less common spelling variant, you should mark"
+" it as a real word."
+msgstr ""
+"Se uma palavra real for escrita em uma variante ortográfica menos comum, "
+"você deverá marcá-la como uma palavra real."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "Words are either presented in only uppercase or lowercase letters."
+msgstr ""
+"As palavras são apresentadas somente em letras maiúsculas ou minúsculas."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "Words are either presented in only uppercase or lowercase letters."
+msgstr ""
+"As palavras são apresentadas somente em letras maiúsculas ou minúsculas."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "You should not pay attention to the case of the letters."
+msgstr "Você não deve prestar atenção às letras maiúsculas e minúsculas."
+
+#: experiment_rating.py
+msgctxt "instructions2"
+msgid "You should not pay attention to the case of the letters."
+msgstr "Você não deve prestar atenção às letras maiúsculas e minúsculas."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "To do the task quickly, you should use the keys on your keyboard."
+msgstr ""
+"Para realizar a tarefa rapidamente, você deve usar as teclas do teclado."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "To do the task quickly, you should use the keys on your keyboard."
+msgstr ""
+"Para realizar a tarefa rapidamente, você deve usar as teclas do teclado."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "You can use the following keys:"
+msgstr "Você pode usar as seguintes teclas:"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "You can use the following keys:"
+msgstr "Você pode usar as seguintes teclas:"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Press <kbd>A</kbd> if the presented word is <strong>real</strong>"
+msgstr ""
+"Pressione <kbd>A</kbd> se a palavra apresentada for <strong>real</strong>"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Press <kbd>A</kbd> if the presented word is <strong>real</strong>"
+msgstr ""
+"Pressione <kbd>A</kbd> se a palavra apresentada for <strong>real</strong>"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Press <kbd>L</kbd> if the presented word is <strong>fake</strong>"
+msgstr ""
+"Pressione <kbd>L</kbd> se a palavra apresentada for <strong>falsa</strong>"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Press <kbd>L</kbd> if the presented word is <strong>fake</strong>"
+msgstr ""
+"Pressione <kbd>L</kbd> se a palavra apresentada for <strong>falsa</strong>"
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Familiarize yourself with the two keys on your keyboard."
+msgstr "Familiarize-se com as duas teclas do teclado."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "Familiarize yourself with the two keys on your keyboard."
+msgstr "Familiarize-se com as duas teclas do teclado."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "If you press them, they will light up in the keyboard on the right."
+msgstr "Se você pressioná-los, eles se iluminarão no teclado à direita."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "If you press them, they will light up in the keyboard on the right."
+msgstr "Se você pressioná-los, eles se iluminarão no teclado à direita."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid ""
+"You need to press both keys at least once to progress to the next page."
+msgstr ""
+"É necessário pressionar as duas teclas pelo menos uma vez para avançar para "
+"a próxima página."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid ""
+"You need to press both keys at least once to progress to the next page."
+msgstr ""
+"É necessário pressionar as duas teclas pelo menos uma vez para avançar para "
+"a próxima página."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "In case you forget the keys, they will be printed on every page."
+msgstr ""
+"Caso você esqueça as chaves, elas serão impressas em todas as páginas."
+
+#: experiment_rating.py
+msgctxt "instructions3"
+msgid "In case you forget the keys, they will be printed on every page."
+msgstr ""
+"Caso você esqueça as chaves, elas serão impressas em todas as páginas."
+
+#: experiment_rating.py
+msgctxt "instructions5"
+msgid "Press \"Next\" to start this part of the experiment."
+msgstr "Pressione “Seguente” para iniciar essa parte do experimento."
+
+#: experiment_rating.py
+msgctxt "instructions5"
+msgid "Press \"Next\" to start this part of the experiment."
+msgstr "Pressione “Seguente” para iniciar essa parte do experimento."
+
+#: experiment_rating.py
+msgctxt "instructions4"
+msgid ""
+"Note that we track your performance and the survey may terminate early if "
+"the response is not consistent."
+msgstr ""
+"Observe que monitoramos seu desempenho e a pesquisa poderá ser encerrada "
+"antecipadamente se a resposta não for consistente."
+
+#: experiment_rating.py
+msgctxt "instructions4"
+msgid ""
+"Note that we track your performance and the survey may terminate early if "
+"the response is not consistent."
+msgstr ""
+"Observe que monitoramos seu desempenho e a pesquisa poderá ser encerrada "
+"antecipadamente se a resposta não for consistente."
+
+#: experiment_rating.py
+msgid ""
+"Tag and Rate Music: Describe Songs and Evaluate Tags! (Chrome browser and "
+"headphones required, ~20 min, £3)"
+msgstr ""
+"Marque e avalie músicas: Descreva as músicas e avalie as tags! (Necessário o"
+" navegador Chrome, ~20 min, £3)"
+
+#. ""
+#: experiment_rating.py
+msgid ""
+"In this experiment, you'll listen to music tracks and provide descriptive "
+"tags."
+msgstr ""
+"Nesta experiência, você ouvirá faixas de música e fornecerá tags "
+"descritivas."
+
+#. ""
+#: experiment_rating.py
+msgid "You'll also evaluate the relevance of existing tags for each song."
+msgstr ""
+"Você também avaliará a relevância das tags existentes para cada música."
+
+#. ""
+#: experiment_rating.py
+msgid "Please note that headphones are required for this study"
+msgstr "Fones de ouvido são necessários para este estudo"
+
+#. ""
+#: experiment_rating.py
+msgid "Please note that headphones are required for this study"
+msgstr "Fones de ouvido são necessários para este estudo"
+
+#. ""
+#: experiment_rating.py
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"Recomendamos abrir o experimento em uma janela anônima no Chrome, pois "
+"alguns complementos do navegador podem interferir no experimento."
+
+#. ""
+#: experiment_rating.py
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"Recomendamos abrir o experimento em uma janela anônima no Chrome, pois "
+"alguns complementos do navegador podem interferir no experimento."
+
+#. ""
+#: experiment_rating.py
+msgid ""
+"If you have any questions or concerns, please contact us through Prolific."
+msgstr ""
+"Se você tiver alguma dúvida ou preocupação, entre em contato conosco através"
+" da Prolific."
+
+#. ""
+#: experiment_rating.py
+msgid ""
+"If you have any questions or concerns, please contact us through Prolific."
+msgstr ""
+"Se você tiver alguma dúvida ou preocupação, entre em contato conosco através"
+" da Prolific."
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid "Attention"
+msgstr "Atenção"
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid ""
+"Please note! During the experiment, it is essential to use <b>headphones</b>"
+" and remain in a quiet environment."
+msgstr ""
+"Por favor, observe! Durante o experimento, é essencial usar <b>fones de "
+"ouvido</b> e permanecer em um ambiente silencioso."
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid "Volume Test"
+msgstr "Teste de volume"
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid "We will begin by calibrating your audio volume:"
+msgstr "Começaremos calibrando o volume do áudio:"
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid ""
+"A music clip will play now to help you find the right volume on your "
+"computer."
+msgstr ""
+"Um clipe de música será reproduzido para ajudá-lo a encontrar o volume "
+"correto em seu computador."
+
+#: volume_calibration.py
+msgctxt "volume-calibration"
+msgid ""
+"Set the volume in your computer to a comfortable level where the audio is "
+"clear but not too loud."
+msgstr ""
+"Ajuste o volume do seu computador para um nível confortável, em que o áudio "
+"seja claro, mas não muito alto."

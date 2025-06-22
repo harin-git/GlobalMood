@@ -1,0 +1,250 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: beep_headphone_test.py
+#, fuzzy
+msgctxt "Beep-headphone-test"
+msgid "Which sound is different from the other two: 1, 2, or 3?"
+msgstr "أي صوت يختلف عن الصوتين الآخرين: 1، 2، أو 3؟"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"We will now perform a quick test to check that you are wearing headphones."
+msgstr "سنقوم الآن بإجراء اختبار سريع للتحقق من أنك ترتدي سماعات الرأس."
+
+#: experiment.py
+#, fuzzy
+msgid "In each trial, you will hear three sounds separated by silences. "
+msgstr "في كل تجربة، ستسمع ثلاثة أصوات مفصولة بفترات صمت."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Listen to the music clip. Rate how well each of the following tags reflects "
+"<strong>emotions expressed or conveyed</strong> by the song:"
+msgstr ""
+"استمع إلى مقطع الموسيقى. قيم مدى تعبير كل من العلامات التالية عن "
+"<strong>المشاعر المعبر عنها أو المنقولة</strong> بواسطة الأغنية:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "مرحبًا بك في الدراسة لوصف الموسيقى!"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr ""
+"<STRONG>تحذير:</STRONG> خلال التجربة، من الضروري استخدام <b>سماعات الرأس</b>"
+" والبقاء في بيئة هادئة."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr ""
+"في الصفحة التالية، يرجى ضبط مستوى الصوت في جهاز الكمبيوتر الخاص بك. ثم، "
+"سنتحقق مما إذا كانت سماعات الرأس متوافقة."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this study, you will <strong>listen to short music clips</strong> and "
+"<strong>evaluate how well the provided tags represent the <em style='color: "
+"#007acc;'>emotions expressed</em> in the music</strong>"
+msgstr ""
+"في هذه الدراسة، ستقوم <strong>بالاستماع إلى مقاطع موسيقية قصيرة</strong> "
+"و<strong>تقييم مدى تمثيل العلامات المقدمة لـ <em style='color: "
+"#007acc;'>المشاعر المعبر عنها</em> في الموسيقى</strong>"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"You will rate each tag on a <strong>scale of 1 to 5</strong> based on how "
+"accurately it reflects the <strong>emotions expressed or conveyed</strong> "
+"by the song:"
+msgstr ""
+"ستقوم بتقييم كل علامة على <strong>مقياس من 1 إلى 5</strong> بناءً على مدى "
+"دقتها في التعبير عن <strong>المشاعر المعبر عنها أو المنقولة</strong> بواسطة "
+"الأغنية:"
+
+#: experiment.py
+#, fuzzy
+msgid "Not expressing at all"
+msgstr "لا تعبر على الإطلاق"
+
+#: experiment.py
+#, fuzzy
+msgid "Slightly expressing"
+msgstr "تعبر بشكل طفيف"
+
+#: experiment.py
+#, fuzzy
+msgid "Moderately expressing"
+msgstr "تعبر بشكل معتدل"
+
+#: experiment.py
+#, fuzzy
+msgid "Very expressing"
+msgstr "تعبر بشكل كبير"
+
+#: experiment.py
+#, fuzzy
+msgid "Extremely expressing"
+msgstr "تعبر بشكل كبير جدًا"
+
+#: experiment.py
+#, fuzzy
+msgid "The tags you will evaluate include:"
+msgstr "تشمل العلامات التي ستقوم بتقييمها:"
+
+#: experiment.py
+#, fuzzy
+msgid "Please take your time to carefully consider each tag before rating."
+msgstr "يرجى أخذ وقتك في التفكير بعناية في كل علامة قبل التقييم."
+
+#: experiment.py
+#, fuzzy
+msgid "Important Notice"
+msgstr "إشعار مهم"
+
+#: experiment.py
+#, fuzzy
+msgid "Please rate the tags honestly. "
+msgstr "يرجى تقييم العلامات بصدق."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Providing inconsistent answers may result in early termination of the "
+"experiment without payment. "
+msgstr "قد يؤدي تقديم إجابات غير متسقة إلى إنهاء مبكر للتجربة دون دفع."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"This termination will be flagged as bad data, potentially influencing your "
+"reputation score on the platform."
+msgstr ""
+"سيتم تصنيف هذا الإنهاء على أنه بيانات سيئة، مما قد يؤثر على درجة سمعتك على "
+"المنصة."
+
+#: experiment.py
+#, fuzzy
+msgid "You are about to start the experiment. "
+msgstr "أنت على وشك بدء التجربة."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"<STRONG>Please note that the submit button becomes available after the song "
+"has been played once.</STRONG>"
+msgstr ""
+"<STRONG>يرجى ملاحظة أن زر الإرسال يصبح متاحًا بعد تشغيل الأغنية مرة "
+"واحدة.</STRONG>"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr ""
+"استمع وقيم: تقييم العلامات العاطفية للأغاني (يتطلب متصفح كروم وسماعات رأس، "
+"~30 دقيقة"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr ""
+"استمع وقيم: تقييم العلامات العاطفية للأغاني (يتطلب متصفح كروم وسماعات رأس، "
+"~30 دقيقة"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr ""
+"في هذه التجربة، ستستمع إلى مقاطع موسيقية قصيرة وتقييم مدى تمثيل العلامات "
+"المقدمة لمشاعر الأغاني."
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr ""
+"في هذه التجربة، ستستمع إلى مقاطع موسيقية قصيرة وتقييم مدى تمثيل العلامات "
+"المقدمة لمشاعر الأغاني."
+
+#: utils.py
+#, fuzzy
+msgid "Please note that headphones are required for this study"
+msgstr "يرجى ملاحظة أن سماعات الرأس مطلوبة لهذه الدراسة"
+
+#: utils.py
+#, fuzzy
+msgid "Please note that headphones are required for this study"
+msgstr "يرجى ملاحظة أن سماعات الرأس مطلوبة لهذه الدراسة"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"نوصي بفتح التجربة في نافذة التصفح المتخفي في كروم، حيث يمكن أن تتداخل بعض "
+"الإضافات في المتصفح مع التجربة."
+
+#: utils.py
+#, fuzzy
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"نوصي بفتح التجربة في نافذة التصفح المتخفي في كروم، حيث يمكن أن تتداخل بعض "
+"الإضافات في المتصفح مع التجربة."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Calibrate your volume"
+msgstr "عاير مستوى الصوت لديك"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Do you hear the music?"
+msgstr "هل تسمع الموسيقى؟"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Set the volume in your computer to a comfortable level. The audio should be "
+"clear but not too loud."
+msgstr ""
+"اضبط مستوى الصوت في جهاز الكمبيوتر لديك إلى مستوى مريح. يجب أن يكون الصوت "
+"واضحًا ولكن ليس مرتفعًا جدًا."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Once the volume is set comfortably, do not change throughout the experiment."
+msgstr "بمجرد ضبط مستوى الصوت بشكل مريح، لا تقم بتغييره طوال مدة التجربة."

@@ -1,0 +1,702 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: beep_headphone_test.py
+#, fuzzy
+msgctxt "Beep-headphone-test"
+msgid "Which sound is different from the other two: 1, 2, or 3?"
+msgstr "Hangi ses diğer ikisinden farklı: 1, 2 veya 3?"
+
+#: experiment.py
+#, fuzzy
+msgctxt "control-label"
+msgid "I can use a genre to describe the music, but not lyrics."
+msgstr "Müziği bir türle tanımlayabilirim, ancak sözleri kullanamam."
+
+#: experiment.py
+#, fuzzy
+msgctxt "control-label"
+msgid "I should describe the music in one word without using genre or lyrics."
+msgstr "Müziği tür veya söz kullanmadan tek kelimeyle tanımlamalıyım."
+
+#: experiment.py
+#, fuzzy
+msgctxt "control-label"
+msgid "I can mention lyrics, but I shouldn’t use any genres."
+msgstr "Sözleri belirtebilirim, ancak herhangi bir tür kullanmamalıyım."
+
+#: experiment.py
+#, fuzzy
+msgctxt "control-label"
+msgid "I should include both a genre and some lyrics to explain my answer."
+msgstr "Cevabımı açıklamak için hem bir tür hem de bazı sözler içermeliyim."
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid "In this experiment,"
+msgstr "Bu deneyde,"
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid "You will listen to a variety of music clips."
+msgstr "Çeşitli müzik klipleri dinleyeceksiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid "You’ll describe the song by giving one-word description tags."
+msgstr "Şarkıyı tek kelimelik tanımlama etiketleri vererek tanımlayacaksınız."
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid "You’ll also rate the description tags suggested by others."
+msgstr ""
+"Ayrıca başkaları tarafından önerilen tanımlama etiketlerini de "
+"değerlendireceksiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid "You may select existing tags or create new ones if necessary."
+msgstr ""
+"Gerekirse mevcut etiketleri seçebilir veya yenilerini oluşturabilirsiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "General-Instructions"
+msgid ""
+"Please ensure you are in a quiet environment and wearing headphones for the "
+"best experience."
+msgstr ""
+"Lütfen sessiz bir ortamda olduğunuzdan ve en iyi deneyim için kulaklık "
+"taktığınızdan emin olun."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "Müziği tanımlama çalışmasına hoş geldiniz!"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr ""
+"<STRONG>Uyarı:</STRONG> Deney sırasında <b>kulaklık</b> kullanmak ve sessiz "
+"bir ortamda kalmak önemlidir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr ""
+"Bir sonraki sayfada, bilgisayarınızın sesini ayarlayın. Ardından, "
+"kulaklıklarınızın uyumlu olup olmadığını kontrol edeceğiz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Suggestions"
+msgid "Do you have any suggestions or feedback regarding the study?"
+msgstr "Çalışma hakkında herhangi bir öneriniz veya geri bildiriminiz var mı?"
+
+#: experiment.py
+#, fuzzy
+msgctxt "warning"
+msgid "Your tag cannot be longer than 15 characters. The tag is removed."
+msgstr "Etiketiniz 15 karakterden uzun olamaz. Etiket kaldırıldı."
+
+#: experiment.py
+#, fuzzy
+msgctxt "warning"
+msgid "Avoid using spaces in your tags."
+msgstr "Etiketlerinizde boşluk kullanmaktan kaçının."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Add some initial tags describing the song"
+msgstr "Şarkıyı tanımlayan bazı başlangıç etiketleri ekleyin"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"Type in tags describing the song. Try to use a variety of tags that describe"
+" musical characteristics, and emotions the music evokes."
+msgstr ""
+"Şarkıyı tanımlayan etiketler yazın. Müzikal özellikleri ve müziğin "
+"uyandırdığı duyguları tanımlayan çeşitli etiketler kullanmaya çalışın."
+
+#: experiment.py
+#, fuzzy, python-brace-format
+msgctxt "STEP-Tag"
+msgid "Please only type tags in {LANGUAGE_NAME}."
+msgstr "Lütfen yalnızca {LANGUAGE_NAME} dilinde etiketler yazın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "You can either select tags from the dropdown list or create new ones."
+msgstr ""
+"Açılır listeden etiketler seçebilir veya yenilerini oluşturabilirsiniz."
+
+#: experiment.py
+#, fuzzy, python-brace-format
+msgctxt "STEP-Tag"
+msgid "Submit your response for a new tag by pressing the {ENTER_KEY} key."
+msgstr "Yeni bir etiket için yanıtınızı {ENTER_KEY} tuşuna basarak gönderin."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"You can add more than one tag. Please be sure to enter each tag separately."
+msgstr ""
+"Birden fazla etiket ekleyebilirsiniz. Lütfen her etiketi ayrı ayrı "
+"girdiğinizden emin olun."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"<strong style='color: red;'>Avoid tags describing genres (e.g., pop, hip-"
+"hop) or repeating song lyrics.</strong>"
+msgstr ""
+"<strong style='color: red;'>Türleri tanımlayan etiketlerden (örneğin, pop, "
+"hip-hop) veya şarkı sözlerini tekrarlayan etiketlerden kaçının.</strong>"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Are any tags missing?"
+msgstr "Herhangi bir etiket eksik mi?"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"Type in tags describing the song that are missing above. Try to use a "
+"variety of tags that describe musical characteristics, and emotions the "
+"music evokes."
+msgstr ""
+"Yukarıda eksik olan şarkıyı tanımlayan etiketler yazın. Müzikal özellikleri "
+"ve müziğin uyandırdığı duyguları tanımlayan çeşitli etiketler kullanmaya "
+"çalışın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"You can add more than one tag. Please be sure to enter each tag separately"
+msgstr ""
+"Birden fazla etiket ekleyebilirsiniz. Lütfen her etiketi ayrı ayrı "
+"girdiğinizden emin olun"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"Please avoid tags describing genres (e.g., pop, hip-hop) or repeating song "
+"lyrics."
+msgstr ""
+"Lütfen türleri tanımlayan etiketlerden (örneğin, pop, hip-hop) veya şarkı "
+"sözlerini tekrarlayan etiketlerden kaçının."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Please use the flag icon if you see any inappropriate tags:"
+msgstr "Uygunsuz etiketler görürseniz lütfen bayrak simgesini kullanın:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"<strong style='color: red;'>Flag</strong> tags specifying music genres like "
+"pop, hip-hop, rap, dance, country, latin music."
+msgstr ""
+"<strong style='color: red;'>Bayrak</strong> pop, hip-hop, rap, dans, "
+"country, latin müziği gibi müzik türlerini belirten etiketler."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"<strong style='color: red;'>Flag</strong> tags that are parts of the lyrics,"
+" i.e., do not repeat words from the song text."
+msgstr ""
+"<strong style='color: red;'>Bayrak</strong> şarkı sözlerinin parçaları olan "
+"etiketler, yani şarkı metninden kelimeleri tekrarlamayın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "The following tags are already completed:"
+msgstr "Aşağıdaki etiketler zaten tamamlandı:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Mark the existing tags"
+msgstr "Mevcut etiketleri işaretleyin"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Type more tags"
+msgstr "Daha fazla etiket yazın"
+
+#: experiment.py
+#, fuzzy
+msgid "Next"
+msgstr "Sonraki"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Adding Tags"
+msgstr "Etiket Ekleme"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"After listening to the song, you can add your own tags that describe the "
+"each song."
+msgstr ""
+"Şarkıyı dinledikten sonra, her şarkıyı tanımlayan kendi etiketlerinizi "
+"ekleyebilirsiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"Your tag will then be rated by other players who are listening to the same "
+"song."
+msgstr ""
+"Etiketiniz daha sonra aynı şarkıyı dinleyen diğer oyuncular tarafından "
+"değerlendirilecektir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Keep tags short:"
+msgstr "Etiketleri kısa tutun:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"Description tags must be one word in length. It is possible to provide more "
+"than one tag. When entering multiple tags, please enter each tag "
+"individually."
+msgstr ""
+"Tanımlama etiketleri bir kelime uzunluğunda olmalıdır. Birden fazla etiket "
+"sağlamak mümkündür. Birden fazla etiket girerken, lütfen her etiketi ayrı "
+"ayrı girin."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"When creating tags, you <strong style='color: red;'>should NOT</strong> use "
+"tags with the following characteristics:"
+msgstr ""
+"Etiket oluştururken, <strong style='color: red;'>şu özelliklere sahip "
+"etiketleri kullanmamalısınız</strong>:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"<strong style='color: red;'>Avoid</strong> specifying music genres like pop,"
+" hip-hop, rap, dance, country, latin music"
+msgstr ""
+"<strong style='color: red;'>Kaçının</strong> pop, hip-hop, rap, dans, "
+"country, latin müziği gibi müzik türlerini belirtmekten"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"<strong style='color: red;'>Avoid</strong> adding parts of the lyrics, i.e.,"
+" do not repeat words from the song text."
+msgstr ""
+"<strong style='color: red;'>Kaçının</strong> şarkı sözlerinin parçalarını "
+"eklemekten, yani şarkı metninden kelimeleri tekrarlamayın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Rating"
+msgstr "Değerlendirme"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"After listening to the music, you will see tags from other participants "
+"describing the song."
+msgstr ""
+"Müziği dinledikten sonra, şarkıyı tanımlayan diğer katılımcılardan gelen "
+"etiketleri göreceksiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"You should rate the relevance of each tag by clicking the appropriate amount"
+" of stars."
+msgstr ""
+"Her etiketin alaka düzeyini uygun miktarda yıldız tıklayarak "
+"değerlendirmelisiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "1 star means not very relevant, 5 stars means very relevant."
+msgstr "1 yıldız çok alakalı değil, 5 yıldız çok alakalı anlamına gelir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"If you are the first person seeing the stimulus, you may see no previous "
+"tags."
+msgstr "Uyarıcıyı ilk gören kişiyseniz, önceki etiketleri görmeyebilirsiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "Flagging"
+msgstr "Bayraklama"
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid ""
+"If you believe a tag is incorrect or inappropriate, such as tags that "
+"describe genres or simply repeat lyrics, you can <strong style='color: "
+"red;'>flag</strong> it by clicking the <strong style='color: red;'>flag "
+"icon</strong> located at the bottom right of each tag, next to the rating "
+"stars."
+msgstr ""
+"Bir etiketin yanlış veya uygunsuz olduğunu düşünüyorsanız, örneğin türleri "
+"tanımlayan veya sadece sözleri tekrarlayan etiketler, <strong style='color: "
+"red;'>bayrak</strong> simgesine tıklayarak <strong style='color: "
+"red;'>bayrak</strong>layabilirsiniz. Bu simge, her etiketin sağ alt "
+"köşesinde, değerlendirme yıldızlarının yanında bulunur."
+
+#: experiment.py
+#, fuzzy
+msgctxt "STEP-Tag"
+msgid "You should flag any tag with the following characteristics:"
+msgstr "Aşağıdaki özelliklere sahip herhangi bir etiketi bayraklamalısınız:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Warning_page"
+msgid ""
+"If you provide tags that we explicitly mentioned not to, other participants "
+"may flag your answers and your experiment may terminate early without "
+"payment. This termination will also be flagged as bad data, potentially "
+"influencing your reputation score on the platform."
+msgstr ""
+"Açıkça belirtilen etiketleri sağlarsanız, diğer katılımcılar yanıtlarınızı "
+"bayraklayabilir ve deneyiniz erken sona erebilir ve ödeme yapılmaz. Bu "
+"sonlandırma, kötü veri olarak da işaretlenecek ve platformdaki itibar "
+"puanınızı potansiyel olarak etkileyebilir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Instructions_Endpage"
+msgid ""
+"You are about to start the experiment. <STRONG>Please note that the next "
+"button becomes available after the song has been played once.</STRONG>"
+msgstr ""
+"Deneye başlamak üzeresiniz. <STRONG>Lütfen sonraki düğmesinin şarkı bir kez "
+"çalındıktan sonra kullanılabilir hale geldiğini unutmayın.</STRONG>"
+
+#: experiment.py
+#, fuzzy
+msgctxt "First-question"
+msgid ""
+"Please answer the following question: Which of the following statements is "
+"<STRONG>TRUE</STRONG> regarding what is allowed in your response?"
+msgstr ""
+"Lütfen aşağıdaki soruyu yanıtlayın: Yanıtınızda neyin izin verildiğiyle "
+"ilgili <STRONG>DOĞRU</STRONG> olan ifadelerden hangisi?"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Great! Your answer was correct. You should use one word to describe the song"
+" but you <STRONG>CAN NOT use genres or lyrics.</STRONG>"
+msgstr ""
+"Harika! Cevabınız doğruydu. Şarkıyı tanımlamak için bir kelime "
+"kullanmalısınız, ancak <STRONG>TÜR VEYA SÖZ KULLANAMAZSINIZ.</STRONG>"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Your answer was incorrect! You should use one word to describe the song but "
+"you <STRONG>CAN NOT use genres or lyrics.</STRONG>"
+msgstr ""
+"Cevabınız yanlış! Şarkıyı tanımlamak için bir kelime kullanmalısınız, ancak "
+"<STRONG>TÜR VEYA SÖZ KULLANAMAZSINIZ.</STRONG>"
+
+#: experiment.py
+#, fuzzy
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"In the first part of the experiment we will perform a test to check your "
+"language abilities."
+msgstr ""
+"Deneyin ilk bölümünde dil yeteneklerinizi kontrol etmek için bir test "
+"yapacağız."
+
+#: experiment.py
+#, fuzzy
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid "In each trial, you will see a string of characters."
+msgstr "Her denemede, bir karakter dizisi göreceksiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions1"
+msgid "The word will disappear after two seconds."
+msgstr "Kelime iki saniye sonra kaybolacak."
+
+#: experiment.py
+#, fuzzy
+msgctxt "VocabTestTrialMaker_instruction1"
+msgid ""
+"Your task is to decide whether this is an existing word or not in your "
+"language."
+msgstr ""
+"Göreviniz, bunun dilinizde mevcut bir kelime olup olmadığına karar "
+"vermektir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid ""
+"If you don't know the exact meaning of the word, but you are certain that it"
+" exists in your language, you should still mark it as a real word."
+msgstr ""
+"Kelimenin tam anlamını bilmiyorsanız, ancak dilinizde var olduğundan "
+"eminseniz, yine de gerçek bir kelime olarak işaretlemelisiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid ""
+"If you are not sure whether the word exists in your language, you should "
+"mark it as a fake word."
+msgstr ""
+"Kelimenin dilinizde var olup olmadığından emin değilseniz, sahte bir kelime "
+"olarak işaretlemelisiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid "In this experiment, you might find a mix between spelling variants."
+msgstr "Bu deneyde, yazım varyantları arasında bir karışım bulabilirsiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid ""
+"If a real word is written in a less common spelling variant, you should mark"
+" it as a real word."
+msgstr ""
+"Gerçek bir kelime daha az yaygın bir yazım varyantında yazılmışsa, gerçek "
+"bir kelime olarak işaretlemelisiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid "Words are either presented in only uppercase or lowercase letters."
+msgstr "Kelimeler ya sadece büyük harflerle ya da küçük harflerle sunulur."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions2"
+msgid "You should not pay attention to the case of the letters."
+msgstr "Harflerin durumuna dikkat etmemelisiniz."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "To do the task quickly, you should use the keys on your keyboard."
+msgstr ""
+"Görevi hızlı bir şekilde yapmak için klavyenizdeki tuşları kullanmalısınız."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "You can use the following keys:"
+msgstr "Aşağıdaki tuşları kullanabilirsiniz:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "Press <kbd>A</kbd> if the presented word is <strong>real</strong>"
+msgstr "Sunulan kelime <strong>gerçek</strong> ise <kbd>A</kbd> tuşuna basın"
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "Press <kbd>L</kbd> if the presented word is <strong>fake</strong>"
+msgstr "Sunulan kelime <strong>sahte</strong> ise <kbd>L</kbd> tuşuna basın"
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "Familiarize yourself with the two keys on your keyboard."
+msgstr "Klavyenizdeki iki tuşu tanıyın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "If you press them, they will light up in the keyboard on the right."
+msgstr "Onlara bastığınızda, sağdaki klavyede yanacaklar."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid ""
+"You need to press both keys at least once to progress to the next page."
+msgstr ""
+"Bir sonraki sayfaya geçmek için her iki tuşa da en az bir kez basmanız "
+"gerekir."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions3"
+msgid "In case you forget the keys, they will be printed on every page."
+msgstr "Tuşları unutursanız, her sayfada yazılı olacaklar."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions5"
+msgid "Press \"Next\" to start this part of the experiment."
+msgstr "Deneyin bu bölümüne başlamak için \"Sonraki\" tuşuna basın."
+
+#: experiment.py
+#, fuzzy
+msgctxt "instructions4"
+msgid ""
+"Note that we track your performance and the survey may terminate early if "
+"the response is not consistent."
+msgstr ""
+"Performansınızı izlediğimizi ve yanıt tutarlı değilse anketin erken sona "
+"erebileceğini unutmayın."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Tag and Rate Music: Describe Songs and Evaluate Tags! (Chrome browser and "
+"headphones required, ~20 min, £3)"
+msgstr ""
+"Müziği Etiketleyin ve Değerlendirin: Şarkıları Tanımlayın ve Etiketleri "
+"Değerlendirin! (Chrome tarayıcı ve kulaklık gereklidir, ~20 dk, £3)"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this experiment, you'll listen to music tracks and provide descriptive "
+"tags."
+msgstr ""
+"Bu deneyde, müzik parçalarını dinleyecek ve tanımlayıcı etiketler "
+"sağlayacaksınız."
+
+#: experiment.py
+#, fuzzy
+msgid "You'll also evaluate the relevance of existing tags for each song."
+msgstr ""
+"Ayrıca her şarkı için mevcut etiketlerin alaka düzeyini "
+"değerlendireceksiniz."
+
+#: experiment.py
+#, fuzzy
+msgid "Please note that headphones are required for this study"
+msgstr "Bu çalışma için kulaklıkların gerekli olduğunu lütfen unutmayın"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"Deneyi Chrome'da gizli bir pencerede açmanızı öneririz, çünkü bazı tarayıcı "
+"eklentileri deneyi etkileyebilir."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"If you have any questions or concerns, please contact us through Prolific."
+msgstr ""
+"Herhangi bir sorunuz veya endişeniz varsa, lütfen Prolific aracılığıyla "
+"bizimle iletişime geçin."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Attention"
+msgstr "Dikkat"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Please note! During the experiment, it is essential to use <b>headphones</b>"
+" and remain in a quiet environment."
+msgstr ""
+"Lütfen dikkat edin! Deney sırasında <b>kulaklık</b> kullanmak ve sessiz bir "
+"ortamda kalmak önemlidir."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Volume Test"
+msgstr "Ses Testi"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "We will begin by calibrating your audio volume:"
+msgstr "Ses seviyenizi ayarlayarak başlayacağız:"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"A music clip will play now to help you find the right volume on your "
+"computer."
+msgstr ""
+"Bilgisayarınızda doğru ses seviyesini bulmanıza yardımcı olmak için şimdi "
+"bir müzik parçası çalacak."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Set the volume in your computer to a comfortable level where the audio is "
+"clear but not too loud."
+msgstr ""
+"Bilgisayarınızdaki sesi, sesin net ama çok yüksek olmadığı rahat bir "
+"seviyeye ayarlayın."

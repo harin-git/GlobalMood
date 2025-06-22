@@ -1,0 +1,128 @@
+{
+    "survey": {
+        "CountryLanguageID": "10",
+        "FulcrumExchangeAllocation": 0,
+        "FulcrumExchangeHedgeAccess": true,
+        "IndustryID": 30,
+        "StudyTypeID": 1,
+        "UniqueIPAddress": true,
+        "UniquePID": true
+    },
+    "qualifications": [
+        {
+            "Name": "MS_is_mobile",
+            "QuestionID": 8214,
+            "LogicalOperator": "NOT",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 1,
+            "PreCodes": [
+                "true"
+            ]
+        },
+        {
+            "Name": "MS_is_tablet",
+            "QuestionID": 8213,
+            "LogicalOperator": "NOT",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 1,
+            "PreCodes": [
+                "true"
+            ]
+        },
+        {
+            "Name": "MS_browser_type_Non_Wurfl",
+            "QuestionID": 1035,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 2,
+            "PreCodes": [
+                "Chrome"
+            ]
+        },
+        {
+            "Name": "LIVE_IN_COUNTRY",
+            "QuestionID": 210590,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "Are you currently living in the United Kingdom?\t",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "Vous r\u00e9sidez actuellement en France ?",
+            "OptionsTranslationDict": {
+                "1": "Oui",
+                "2": "Non"
+            }
+        },
+        {
+            "Name": "IS_NATIVE",
+            "QuestionID": 200314,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "Are you a native speaker of English?",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "\u00cates-vous de langue maternelle fran\u00e7aise ?",
+            "OptionsTranslationDict": {
+                "1": "Oui",
+                "2": "Non"
+            }
+        },
+        {
+            "Name": "HAS_AUDIO",
+            "QuestionID": 200093,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "To complete this survey, you will be asked to listen to audio. Can you listen to audio on the current device?",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "Pour r\u00e9pondre \u00e0 cette enqu\u00eate, il vous sera demand\u00e9 d\u2019\u00e9couter de l\u2019audio. Pouvez-vous \u00e9couter de l'audio sur l'appareil actuel\u00a0?",
+            "OptionsTranslationDict": {
+                "1": "Oui",
+                "2": "Non"
+            }
+        },
+        {
+            "Name": "TIMEOUT",
+            "QuestionID": 191148,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "This survey requires you to stay on the website. When you switch tabs or leave the window, your participation will be terminated earlier.\nIf you wish to end the survey earlier, please press the early \"termination\" button provided on each survey page.\nPlease note that early termination will not result in compensation.",
+            "OptionsTextDict": {
+                "1": "Agree",
+                "2": "Disagree"
+            },
+            "QuestionTranslation": "Cette enqu\u00eate vous oblige \u00e0 rester sur le site Web. Lorsque vous changez d'onglet ou quittez la fen\u00eatre, votre participation sera r\u00e9sili\u00e9e plus t\u00f4t. Si vous souhaitez mettre fin \u00e0 l'enqu\u00eate plus t\u00f4t, veuillez appuyer sur le bouton \"R\u00e9siliation anticip\u00e9e\" fourni sur chaque page d'enqu\u00eate. Veuillez noter qu'une r\u00e9siliation anticip\u00e9e ne donnera lieu \u00e0 aucune indemnit\u00e9.",
+            "OptionsTranslationDict": {
+                "1": "Accept",
+                "2": "D\u00e9saccord"
+            }
+        }
+    ],
+    "country": "FR",
+    "language": "FRE"
+}

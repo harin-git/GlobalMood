@@ -1,0 +1,128 @@
+{
+    "survey": {
+        "CountryLanguageID": "21",
+        "FulcrumExchangeAllocation": 0,
+        "FulcrumExchangeHedgeAccess": true,
+        "IndustryID": 30,
+        "StudyTypeID": 1,
+        "UniqueIPAddress": true,
+        "UniquePID": true
+    },
+    "qualifications": [
+        {
+            "Name": "MS_is_mobile",
+            "QuestionID": 8214,
+            "LogicalOperator": "NOT",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 1,
+            "PreCodes": [
+                "true"
+            ]
+        },
+        {
+            "Name": "MS_is_tablet",
+            "QuestionID": 8213,
+            "LogicalOperator": "NOT",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 1,
+            "PreCodes": [
+                "true"
+            ]
+        },
+        {
+            "Name": "MS_browser_type_Non_Wurfl",
+            "QuestionID": 1035,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 0,
+            "IsActive": true,
+            "Order": 2,
+            "PreCodes": [
+                "Chrome"
+            ]
+        },
+        {
+            "Name": "LIVE_IN_COUNTRY",
+            "QuestionID": 210590,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "Are you currently living in the United Kingdom?\t",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "\u00bfVive actualmente en M\u00e9xico?",
+            "OptionsTranslationDict": {
+                "1": "S\u00ed",
+                "2": "No"
+            }
+        },
+        {
+            "Name": "IS_NATIVE",
+            "QuestionID": 200314,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "Are you a native speaker of English?",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "\u00bfEres hablante nativo de espa\u00f1ol?",
+            "OptionsTranslationDict": {
+                "1": "Si",
+                "2": "No"
+            }
+        },
+        {
+            "Name": "HAS_AUDIO",
+            "QuestionID": 200093,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "To complete this survey, you will be asked to listen to audio. Can you listen to audio on the current device?",
+            "OptionsTextDict": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "QuestionTranslation": "Para completar esta encuesta, se le pedir\u00e1 que escuche un audio. \u00bfPuedes escuchar audio en el dispositivo actual?",
+            "OptionsTranslationDict": {
+                "1": "Si",
+                "2": "No"
+            }
+        },
+        {
+            "Name": "TIMEOUT",
+            "QuestionID": 191148,
+            "LogicalOperator": "OR",
+            "NumberOfRequiredConditions": 1,
+            "IsActive": true,
+            "PreCodes": [
+                "1"
+            ],
+            "QuestionText": "This survey requires you to stay on the website. When you switch tabs or leave the window, your participation will be terminated earlier.\nIf you wish to end the survey earlier, please press the early \"termination\" button provided on each survey page.\nPlease note that early termination will not result in compensation.",
+            "OptionsTextDict": {
+                "1": "Agree",
+                "2": "Disagree"
+            },
+            "QuestionTranslation": "Esta encuesta requiere que permanezca en el sitio web. Cuando cambie de pesta\u00f1a o salga de la ventana, su participaci\u00f3n finalizar\u00e1 antes. Si desea finalizar la encuesta antes de tiempo, presione el bot\u00f3n de \"terminaci\u00f3n anticipada\" que se proporciona en cada p\u00e1gina de la encuesta. Tenga en cuenta que la terminaci\u00f3n anticipada no dar\u00e1 lugar a ninguna compensaci\u00f3n.",
+            "OptionsTranslationDict": {
+                "1": "Aceptar",
+                "2": "Discrepar"
+            }
+        }
+    ],
+    "country": "MX",
+    "language": "SPA"
+}

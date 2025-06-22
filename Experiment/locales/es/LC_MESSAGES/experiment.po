@@ -1,0 +1,263 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: beep_headphone_test.py
+#, fuzzy
+msgctxt "Beep-headphone-test"
+msgid "Which sound is different from the other two: 1, 2, or 3?"
+msgstr "¿Cuál sonido es diferente de los otros dos: 1, 2, o 3?"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"We will now perform a quick test to check that you are wearing headphones."
+msgstr ""
+"Ahora realizaremos una prueba rápida para verificar que estás usando "
+"auriculares."
+
+#: experiment.py
+#, fuzzy
+msgid "In each trial, you will hear three sounds separated by silences. "
+msgstr "En cada prueba, escucharás tres sonidos separados por silencios."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Listen to the music clip. Rate how well each of the following tags reflects "
+"<strong>emotions expressed or conveyed</strong> by the song:"
+msgstr ""
+"Escucha el fragmento de música. Evalúa qué tan bien cada una de las "
+"siguientes etiquetas refleja <strong>las emociones expresadas o "
+"transmitidas</strong> por la canción:"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid "Welcome to the study to describe music!"
+msgstr "¡Bienvenido al estudio para describir música!"
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"<STRONG>Warning:</STRONG> During the experiment, it is essential to use "
+"<b>headphones</b> and remain in a quiet environment. "
+msgstr ""
+"<STRONG>Advertencia:</STRONG> Durante el experimento, es esencial usar "
+"<b>auriculares</b> y permanecer en un entorno tranquilo."
+
+#: experiment.py
+#, fuzzy
+msgctxt "Headphone-Instructions"
+msgid ""
+"On the next page, please adjust the volume of your computer. Then, we will "
+"check if your headphones are compatible."
+msgstr ""
+"En la siguiente página, ajusta el volumen de tu computadora. Luego, "
+"verificaremos si tus auriculares son compatibles."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"In this study, you will <strong>listen to short music clips</strong> and "
+"<strong>evaluate how well the provided tags represent the <em style='color: "
+"#007acc;'>emotions expressed</em> in the music</strong>"
+msgstr ""
+"En este estudio, <strong>escucharás fragmentos cortos de música</strong> y "
+"<strong>evaluarás qué tan bien las etiquetas proporcionadas representan las "
+"<em style='color: #007acc;'>emociones expresadas</em> en la música</strong>"
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"You will rate each tag on a <strong>scale of 1 to 5</strong> based on how "
+"accurately it reflects the <strong>emotions expressed or conveyed</strong> "
+"by the song:"
+msgstr ""
+"Calificarás cada etiqueta en una <strong>escala del 1 al 5</strong> según "
+"qué tan precisamente refleja las <strong>emociones expresadas o "
+"transmitidas</strong> por la canción:"
+
+#: experiment.py
+#, fuzzy
+msgid "Not expressing at all"
+msgstr "No expresa en absoluto"
+
+#: experiment.py
+#, fuzzy
+msgid "Slightly expressing"
+msgstr "Expresa ligeramente"
+
+#: experiment.py
+#, fuzzy
+msgid "Moderately expressing"
+msgstr "Expresa moderadamente"
+
+#: experiment.py
+#, fuzzy
+msgid "Very expressing"
+msgstr "Expresa mucho"
+
+#: experiment.py
+#, fuzzy
+msgid "Extremely expressing"
+msgstr "Expresa extremadamente"
+
+#: experiment.py
+#, fuzzy
+msgid "The tags you will evaluate include:"
+msgstr "Las etiquetas que evaluarás incluyen:"
+
+#: experiment.py
+#, fuzzy
+msgid "Please take your time to carefully consider each tag before rating."
+msgstr ""
+"Tómate tu tiempo para considerar cuidadosamente cada etiqueta antes de "
+"calificar."
+
+#: experiment.py
+#, fuzzy
+msgid "Important Notice"
+msgstr "Aviso Importante"
+
+#: experiment.py
+#, fuzzy
+msgid "Please rate the tags honestly. "
+msgstr "Por favor, califica las etiquetas honestamente."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"Providing inconsistent answers may result in early termination of the "
+"experiment without payment. "
+msgstr ""
+"Proporcionar respuestas inconsistentes puede resultar en la terminación "
+"anticipada del experimento sin pago."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"This termination will be flagged as bad data, potentially influencing your "
+"reputation score on the platform."
+msgstr ""
+"Esta terminación se marcará como datos incorrectos, lo que podría influir en"
+" tu puntuación de reputación en la plataforma."
+
+#: experiment.py
+#, fuzzy
+msgid "You are about to start the experiment. "
+msgstr "Estás a punto de comenzar el experimento."
+
+#: experiment.py
+#, fuzzy
+msgid ""
+"<STRONG>Please note that the submit button becomes available after the song "
+"has been played once.</STRONG>"
+msgstr ""
+"<STRONG>Ten en cuenta que el botón de enviar estará disponible después de "
+"que la canción se haya reproducido una vez.</STRONG>"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr ""
+"Escucha y califica: evalúa etiquetas emocionales para canciones (se requiere"
+" navegador Chrome y auriculares, ~30 min"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"Listen and Rate: Assess Emotional Tags for Songs (Chrome browser and "
+"headphones required, ~30 min"
+msgstr ""
+"Escucha y califica: evalúa etiquetas emocionales para canciones (se requiere"
+" navegador Chrome y auriculares, ~30 min"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr ""
+"En este experimento, escucharás fragmentos cortos de música y calificarás "
+"qué tan bien las etiquetas proporcionadas representan las emociones de las "
+"canciones."
+
+#: utils.py
+#, fuzzy
+msgid ""
+"In this experiment, you will listen to short music clips and rate how well "
+"the provided tags represent the emotions of the songs."
+msgstr ""
+"En este experimento, escucharás fragmentos cortos de música y calificarás "
+"qué tan bien las etiquetas proporcionadas representan las emociones de las "
+"canciones."
+
+#: utils.py
+#, fuzzy
+msgid "Please note that headphones are required for this study"
+msgstr ""
+"Por favor, ten en cuenta que se requieren auriculares para este estudio"
+
+#: utils.py
+#, fuzzy
+msgid "Please note that headphones are required for this study"
+msgstr ""
+"Por favor, ten en cuenta que se requieren auriculares para este estudio"
+
+#: utils.py
+#, fuzzy
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"Recomendamos abrir el experimento en una ventana de incógnito en Chrome, ya "
+"que algunos complementos del navegador pueden interferir con el experimento."
+
+#: utils.py
+#, fuzzy
+msgid ""
+"We recommend opening the experiment in an incognito window in Chrome, as "
+"some browser add-ons can interfere with the experiment."
+msgstr ""
+"Recomendamos abrir el experimento en una ventana de incógnito en Chrome, ya "
+"que algunos complementos del navegador pueden interferir con el experimento."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Calibrate your volume"
+msgstr "Calibra tu volumen"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid "Do you hear the music?"
+msgstr "¿Escuchas la música?"
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Set the volume in your computer to a comfortable level. The audio should be "
+"clear but not too loud."
+msgstr ""
+"Ajusta el volumen en tu computadora a un nivel cómodo. El audio debe ser "
+"claro pero no demasiado alto."
+
+#: volume_calibration.py
+#, fuzzy
+msgctxt "volume-calibration"
+msgid ""
+"Once the volume is set comfortably, do not change throughout the experiment."
+msgstr ""
+"Una vez que el volumen esté ajustado cómodamente, no lo cambies durante el "
+"experimento."
